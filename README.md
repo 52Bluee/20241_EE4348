@@ -1,5 +1,5 @@
 # 20241_EE4348
-1.Controller\\
+1.Controller \n
 Các file HTTP_Controller.py, CoAP_Controller.py và MQTT_Controller.py được dùng để tạo một controller tương ứng với mỗi giao thức.
 Yêu cầu:
 Môi trường: Python3
